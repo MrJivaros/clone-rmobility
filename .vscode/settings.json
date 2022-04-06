@@ -1,0 +1,15 @@
+{
+ "[dart]": {
+  "editor.codeActionsOnSave": {
+   "source.fixAll": true,
+   "source.organizeImports": true
+  },
+  "editor.formatOnSave": true,
+  "editor.rulers": [90]
+ },
+ "editor.insertSpaces": true,
+ "editor.tabSize": 2,
+ "editor.rulers": [90],
+ "editor.wordWrap": "wordWrapColumn",
+ "editor.wordWrapColumn": 95
+}
